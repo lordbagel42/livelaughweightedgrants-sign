@@ -16,11 +16,23 @@ There is much to be done still, but this is overall a decent spot. Mostly just f
 
   
 
-## 10/31/2025 - Started cutting the baseplate!  
+## 10/31/2025 9 AM - Started cutting the baseplate!  
 
 Long story short, I got mad at Inkscape and Fusion after spending way, way too much time making the measurements for my text work. It's almost done, actually. I figured out I have to change one of my dimensions to make this actually yknow, physically possible to make, but overall it's good.
 
 ![20251030_160647](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--fbb38736297f42501d4c373fdf2ac58f19570b35/20251030_160647.jpg)
 
 [Find a video of machining here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5cd6a4e3fc499ba28321665164e439dc3fafb083_20251030_160533.mp4)  
+
+## 10/31/2025 2 PM - Convinced Onshape and Inkscape to actually be useful  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE3NCwicHVyIjoiYmxvYl9pZCJ9fQ==--840f77d124835963eabdda21b7d9bed1e5caba88/image.png)
+This is basically it. Going to add a little feature for a wall mount of some form, but this is really all. I'll be painting it physically, but this is it so far.
+
+Here's the physical thing, been having a halloween party with my school and not had time to get it as finished as I would like.
+
+Next step is figuring out how the heck I should cut out all of this text. I'm also very tempted to try and laser engrave markings for the lettering to sit in, but I'm not sure if it's worth the effort. Took way too long to program just the base for the CNC lmao, the letters are going to suck to make and position and glue on.
+
+![20251031_140638](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzE3NSwicHVyIjoiYmxvYl9pZCJ9fQ==--ceb83131ef21027b8358508600aa767cf3117a79/20251031_140638.jpg)
+  
 
