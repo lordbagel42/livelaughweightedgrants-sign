@@ -16,3 +16,11 @@ There is much to be done still, but this is overall a decent spot. Mostly just f
 
   
 
+## 10/31/2025 - Started cutting the baseplate!  
+
+Long story short, I got mad at Inkscape and Fusion after spending way, way too much time making the measurements for my text work. It's almost done, actually. I figured out I have to change one of my dimensions to make this actually yknow, physically possible to make, but overall it's good.
+
+![20251030_160647](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzAxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--fbb38736297f42501d4c373fdf2ac58f19570b35/20251030_160647.jpg)
+
+[Find a video of machining here](https://hc-cdn.hel1.your-objectstorage.com/s/v3/5cd6a4e3fc499ba28321665164e439dc3fafb083_20251030_160533.mp4)  
+
